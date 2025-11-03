@@ -1,9 +1,12 @@
 ---
+layout: single
 title: "Contact"
 permalink: /contact/
+author_profile: true
 ---
 
-📧 **ahmadshahzad.dev@gmail.com**  
-💼 [Upwork Profile](https://www.upwork.com/freelancers/ahmadshahzad)  
-🌐 [LinkedIn](https://linkedin.com/in/ahmadshahzad)  
-🐙 [GitHub](https://github.com/bd047)
+You can reach me through:
+
+- **Email:** [ahmadshahzad.dev@gmail.com](mailto:ahmadshahzad.dev@gmail.com)  
+- **GitHub:** [github.com/bd047](https://github.com/bd047)  
+- **Upwork:** [upwork.com/freelancers/ahmadshahzad](https://www.upwork.com/freelancers/ahmadshahzad)
