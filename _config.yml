@@ -1,27 +1,12 @@
-#  title: "Ahmad Shahzad"
-# description: "AI Automation Architect · GPT Agents · CRM Workflows · AWS"
-# url: "https://bd047.github.io"
-
-# # ✅ Pin to a Jekyll-3 compatible release
-# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
-# plugins:
-#   - jekyll-remote-theme
-#   - jekyll-seo-tag
-#   - jekyll-sitemap
-#   - jekyll-feed
-#   - jekyll-paginate
-
-# markdown: kramdown
-# kramdown:
-#   input: GFM
-
 title: "Ahmad Shahzad"
 description: "AI Automation Architect · GPT Agents · CRM Workflows · AWS"
 url: "https://bd047.github.io"
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes"
 
+# -------------------------------------------------------
+# Plugins
+# -------------------------------------------------------
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
@@ -29,10 +14,49 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+# -------------------------------------------------------
+# Markdown Settings
+# -------------------------------------------------------
 markdown: kramdown
 kramdown:
   input: GFM
 
+# -------------------------------------------------------
+# Author Profile (sidebar)
+# -------------------------------------------------------
+author:
+  name: "Ahmad Shahzad"
+  avatar: "/assets/img/profile.jpg"
+  bio: "Building production-grade AI automations, GPT agents, and CRM-integrated dashboards."
+  location: "Lahore, Pakistan · Toronto, Canada"
+  links:
+    - label: "Upwork"
+      icon: "fab fa-upwork"
+      url: "https://www.upwork.com/freelancers/ahmadshahzad"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/ahmadshahzad"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/bd047"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:ahmadshahzad.dev@gmail.com"
+
+# -------------------------------------------------------
+# Navigation (top menu)
+# -------------------------------------------------------
+nav:
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Contact"
+    url: /contact/
+
+# -------------------------------------------------------
+# Collections (so _pages/ output works)
+# -------------------------------------------------------
 collections:
   pages:
     output: true
@@ -46,3 +70,10 @@ defaults:
       layout: single
       author_profile: true
 
+# -------------------------------------------------------
+# Header banner
+# -------------------------------------------------------
+header:
+  overlay_image: /assets/img/hero-bg.jpg
+  caption: "AI Automation Architect · GPT Agents · CRM Workflows · AWS"
+  overlay_filter: 0.4
