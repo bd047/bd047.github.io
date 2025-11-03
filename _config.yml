@@ -1,7 +1,8 @@
 title: "Ahmad Shahzad"
 description: "AI Automation Architect · GPT Agents · CRM Workflows · AWS"
 url: "https://bd047.github.io"
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
+
 
 author:
   name: "Ahmad Shahzad"
