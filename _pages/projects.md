@@ -1,20 +1,17 @@
 ---
+layout: single
 title: "Projects"
 permalink: /projects/
+author_profile: true
 ---
 
-### 🧠 AI-Powered Call Classification Dashboard
-**Tech:** FastAPI · GPT-4 · AWS Lambda · BigQuery · React  
-Built an AI system that classifies and tags inbound call transcripts for marketing analytics.
+### Featured Projects
 
----
+- **AI-Powered Call Classification Dashboard**  
+  Built with FastAPI + GPT-4 + BigQuery + AWS Lambda to automate call transcription and classification.
 
-### 🤖 CRM Workflow AI Assistant
-**Tech:** LangGraph · FastAPI · Zapier · HubSpot  
-Developed an automation agent that updates pipelines and drafts CRM replies.
+- **CRM Workflow AI Assistant**  
+  Automated CRM follow-ups, lead tagging, and pipeline analytics using GPT agents and Zapier.
 
----
-
-### 🎯 Marketing Intelligence Platform
-**Tech:** Python · OpenAI · Google Sheets API  
-Created a system that analyzes influencer performance and campaign ROI automatically.
+- **MirrorVision Golf Coaching App**  
+  Real-time swing analysis using Apple Vision + CoreML with YOLOv8 models.
