@@ -1,14 +1,10 @@
 ---
+layout: single
 title: "About Me"
 permalink: /about/
+author_profile: true
 ---
 
-Hi, I'm **Ahmad Shahzad** — an AI Automation Architect and Full-Stack AI Developer.
+Hi, I’m **Ahmad Shahzad** — an AI Automation Architect focused on GPT-based agents, CRM workflow systems, and AWS-integrated automation.
 
-I design and deploy **AI-powered automations, GPT agents, and CRM integrations** that help businesses reduce manual work and improve analytics visibility.
-
-**Core Expertise**
-- LangGraph · FastAPI · Zapier · Make.com
-- AWS Lambda · BigQuery · Vertex AI
-- CRM Automation (HubSpot, GoHighLevel, Zoho)
-- Full-Stack (React · Python · Supabase)
+This portfolio showcases my AI-driven products, real-world integrations, and automation architecture work.
