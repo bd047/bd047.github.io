@@ -1,37 +1,13 @@
 title: "Ahmad Shahzad"
 description: "AI Automation Architect · GPT Agents · CRM Workflows · AWS"
 url: "https://bd047.github.io"
-remote_theme: mmistakes/minimal-mistakes
 
-
-author:
-  name: "Ahmad Shahzad"
-  avatar: "/assets/img/profile.jpg"
-  bio: "Building production-grade AI automations and CRM-integrated dashboards."
-  links:
-    - label: "Upwork"
-      icon: "fab fa-upwork"
-      url: "https://www.upwork.com/freelancers/ahmadshahzad"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/ahmadshahzad"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/bd047"
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:ahmadshahzad.dev@gmail.com"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
 
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: single
-      author_profile: true
