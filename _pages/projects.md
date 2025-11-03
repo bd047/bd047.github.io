@@ -14,4 +14,4 @@ author_profile: true
   Automated CRM follow-ups, lead tagging, and pipeline analytics using GPT agents and Zapier.
 
 - **MirrorVision Golf Coaching App**  
-  Real-time swing analysis using Apple Vision + CoreML with YOLOv8 models.
+  Real-time swing analysis using Apple Vision + CoreML with YOLOv8 models.w
