@@ -1,7 +1,8 @@
-title: "Ahmad Shahzad"
+ title: "Ahmad Shahzad"
 description: "AI Automation Architect · GPT Agents · CRM Workflows · AWS"
 url: "https://bd047.github.io"
 
+# ✅ Pin to a Jekyll-3 compatible release
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
@@ -11,3 +12,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+markdown: kramdown
+kramdown:
+  input: GFM
